@@ -2,7 +2,7 @@
 <h3>README</h3>
 <div style="border: 5px dotted gray; padding: 10px 20px; background-color:#ededed; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);">
 <h4 id="peer-graded-assignment-getting-and-cleaning-data-course-project">Peer-graded Assignment: Getting and Cleaning Data Course Project</h4>
-<p>This repository is a <strong>Nunno Nugroho</strong> submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.</p>
+<p>This repository is a <strong>Leandro Nascimento</strong> submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.</p>
 <h4 id="dataset-1">Dataset</h4>
 <p><a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">Human Activity Recognition Using Smartphones</a></p>
 <h4 id="files">Files</h4>
